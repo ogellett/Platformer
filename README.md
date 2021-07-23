@@ -3,7 +3,7 @@ A platforming game with level editor. My first major coding project.
 
 Features:
   - level editor:
-    - create, save, and edit existing levels (saved as text files)
+    - create, save, and edit levels (saved as text files)
 
   - game:
     - load levels created by the level editor
