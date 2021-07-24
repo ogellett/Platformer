@@ -1,5 +1,5 @@
 # platformer
-A platforming game with level editor. My first major coding project.
+A platforming game with level editor written in python. My first major coding project.
 
 Features:
   - level editor:
