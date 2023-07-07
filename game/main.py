@@ -31,7 +31,7 @@ player1 = player.Player()
 while True:
     level_name = input("input the name of the level you want to load: ")
     try:
-        current_level = level.Level(f"../levels/{level_name}.txt")
+        current_level = level.Level(f"..\levels\{level_name}.txt")
         print("level loading successful! Navigate to the game window to play")
         message.clear()
         break
