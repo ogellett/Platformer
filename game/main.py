@@ -9,8 +9,6 @@ import hitbox
 
 constants.FPS = 60
 
-# testing the git clone command
-
 wn = turtle.Screen()
 wn.title("Oli's Platformer")
 wn.bgcolor("black")
