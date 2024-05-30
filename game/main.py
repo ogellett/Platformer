@@ -91,4 +91,4 @@ while True:
             active_hitbox.y_range = ()
     except IndexError:
         pass
-    time.sleep(0.000001)  # this limits the frame rate to ~60 fps
+    time.sleep(0.016667)  # this limits the frame rate to ~60 fps

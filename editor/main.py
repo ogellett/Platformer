@@ -159,4 +159,4 @@ while True:
             hitboxes.pop(overlap_index)
 
     window.update()
-    time.sleep(0.0001)
+    time.sleep(0.016667)
